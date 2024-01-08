@@ -1,0 +1,10 @@
+flask
+sqlalchemy
+flask-sqlalchemy
+flask-smorest
+flask-migrate
+passlib
+flask-jwt-extended
+flask-cors
+bleach
+pandas
